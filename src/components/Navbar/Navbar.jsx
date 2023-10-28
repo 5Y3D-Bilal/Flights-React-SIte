@@ -56,7 +56,7 @@ const Navbar = () => {
           </div>
 
           <div className={active}>
-            <ul className="menu flex">
+            <ul className="menu flex"> 
               <li onClick={RemoveNavBar} className="listItem">
                 Home
               </li>
